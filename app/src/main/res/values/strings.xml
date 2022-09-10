@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ITC362HW1Ex3</string>
+    <string name="app_name">Exercise 3</string>
+    <string name="number">0</string>
+    <string name="button_text">Tap Me!</string>
 </resources>
